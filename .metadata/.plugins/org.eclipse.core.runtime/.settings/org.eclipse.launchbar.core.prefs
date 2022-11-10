@@ -1,0 +1,5 @@
+configDescList=org.jboss.tools.wtp.server.launchbar.ModuleDescriptorType\:CalcClientEAR,org.jboss.tools.wtp.server.launchbar.ModuleDescriptorType\:/CalcServlet,org.eclipse.launchbar.core.descriptorType.default\:JBoss AS 6.x,org.jboss.tools.wtp.server.launchbar.ModuleDescriptorType\:/calc.html,org.jboss.tools.wtp.server.launchbar.ModuleDescriptorType\:CalcClient
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:JBoss\ AS\ 6.x/activeLaunchTarget=org.eclipse.remote.LocalServices\:Local
+org.jboss.tools.wtp.server.launchbar.ModuleDescriptorType\:CalcClient/activeLaunchMode=run
+org.jboss.tools.wtp.server.launchbar.ModuleDescriptorType\:CalcClient/activeLaunchTarget=org.jboss.tools.wtp.server.launchbar.connection\:JBoss AS 6.x
